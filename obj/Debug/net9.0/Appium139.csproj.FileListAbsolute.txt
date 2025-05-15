@@ -1,0 +1,5 @@
+c:\repos-vscode\Iterasys\Appium139\obj\Debug\net9.0\Appium139.csproj.AssemblyReference.cache
+c:\repos-vscode\Iterasys\Appium139\obj\Debug\net9.0\Appium139.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos-vscode\Iterasys\Appium139\obj\Debug\net9.0\Appium139.AssemblyInfoInputs.cache
+c:\repos-vscode\Iterasys\Appium139\obj\Debug\net9.0\Appium139.AssemblyInfo.cs
+c:\repos-vscode\Iterasys\Appium139\obj\Debug\net9.0\Appium139.csproj.CoreCompileInputs.cache
