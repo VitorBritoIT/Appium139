@@ -35,7 +35,7 @@ public class SelectProductMDA
     [TearDown] // Encerra - Depois do Teste
     public void Finalizar()
     {
-        if (driver == null) return; // Se não tem o driver ativo, apenas termine o script
+        if (driver == null) return; // Se não tem o driver ativo, apenas termine o script.
         driver.Quit();
         driver.Dispose();
     }
